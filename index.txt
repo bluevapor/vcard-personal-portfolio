@@ -2,23 +2,23 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Xyphur
+blue vapor
+Software Dev
 
 Show Contacts
 
 Email
-richard@example.com
+xylsium@gmail.com
 
 Phone
 +1 (213) 352-2795
 
 Birthday
-June 23, 1982
+December 17th, 2005
 
 Location
-Sacramento, California, USA
+Somewhere, in the USA
 
 # navbar
 
